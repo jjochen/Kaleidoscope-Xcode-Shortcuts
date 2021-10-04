@@ -24,5 +24,5 @@
 
 #pragma once
 
-#include <Kaleidoscope/XcodeKeyDefs.h>
-#include <Kaleidoscope/Xcode-Shortcuts.h>
+#include <kaleidoscope/plugin/XcodeKeyDefs.h>
+#include <kaleidoscope/plugin/Xcode-Shortcuts.h>
